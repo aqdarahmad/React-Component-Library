@@ -1,0 +1,22 @@
+export const abs = (x) => Math.abs(x);
+export const round = (x) => Math.round(x);
+export const ceil = (x) => Math.ceil(x);
+export const floor = (x) => Math.floor(x);
+export const max = (...nums) => Math.max(...nums);
+export const min = (...nums) => Math.min(...nums);
+export const exp = (x) => Math.exp(x);
+export const pow = (base, exp) => Math.pow(base, exp);
+export const sqrt = (x) => Math.sqrt(x);
+export const log = (x) => Math.log(x);
+export const log10 = (x) => Math.log10(x);
+export const sin = (x) => Math.sin(x);
+export const cos = (x) => Math.cos(x);
+export const tan = (x) => Math.tan(x);
+export const asin = (x) => Math.asin(x);
+export const acos = (x) => Math.acos(x);
+export const atan = (x) => Math.atan(x);
+export const sinh = (x) => Math.sinh(x);
+export const cosh = (x) => Math.cosh(x);
+export const tanh = (x) => Math.tanh(x);
+export const random = () => Math.random();
+//# sourceMappingURL=scientific.js.map
