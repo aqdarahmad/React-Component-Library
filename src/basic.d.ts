@@ -1,0 +1,13 @@
+export declare const add: (a: number, b: number) => number;
+export declare const sub: (a: number, b: number) => number;
+export declare const mul: (a: number, b: number) => number;
+export declare const div: (a: number, b: number) => number;
+export declare const mod: (a: number, b: number) => number;
+export declare const pow: (a: number, b: number) => number;
+export declare const factorial: (n: number) => number;
+export declare const sum: (...nums: number[]) => number;
+export declare const average: (...nums: number[]) => number;
+export declare const negate: (x: number) => number;
+export declare const increment: (x: number) => number;
+export declare const decrement: (x: number) => number;
+//# sourceMappingURL=basic.d.ts.map
