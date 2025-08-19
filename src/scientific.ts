@@ -1,0 +1,11 @@
+export const power = (base: number ,  exp : number ) => Math.pow(base , exp);
+export const sin = (x:number) => Math.sin(x);
+export const cos = (x:number) => Math.cos(x);
+export const log = (x:number) => Math.log(x);
+export const abs = (x: number) => Math.abs(x);      
+export const round = (x: number) => Math.round(x);   
+export const ceil = (x: number) => Math.ceil(x);     
+export const floor = (x: number) => Math.floor(x);   
+export const max = (...nums: number[]) => Math.max(...nums); 
+export const min = (...nums: number[]) => Math.min(...nums); 
+export const exp = (x: number) => Math.exp(x);    
